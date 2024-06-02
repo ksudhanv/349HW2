@@ -27,7 +27,7 @@ main{
     margin-top: 25px;
     padding: 25px;
 }
-.details section.with-code{
+.details section.with-code.code-copy{
     padding: 25px;
 }
 .details section.h2{
