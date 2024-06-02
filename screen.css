@@ -25,6 +25,7 @@ main{
     background: #eee;
     border-radius: 20px;
     margin-top: 25px;
+    padding: 25px;
 }
 .details section.with-code{
     padding: 0;
