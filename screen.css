@@ -32,9 +32,6 @@ main{
 .details section.h2{
     margin: 20px;
 }
-div.code-copy{
-    padding: 25px;
-}
 div.code-html{
     padding: 25px;
     background: #424242;
